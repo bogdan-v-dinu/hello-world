@@ -1,7 +1,7 @@
 hello-world
 ===========
 
-Hi github,
+Hi github 1,
 
 This project is nothing more than the hello-world git guide.
 Hope to get more stuff in here later.
