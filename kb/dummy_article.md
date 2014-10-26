@@ -7,6 +7,9 @@ Links
 GitHub Guides
 https://guides.github.com/
 
+Everyday GIT With 20 Commands Or So
+https://www.kernel.org/pub/software/scm/git/docs/everyday.html
+
 Reset Demystified http://git-scm.com/blog
 Merge conflicts and remotes http://dont-be-afraid-to-commit.readthedocs.org/en/latest/git/index.html
 
