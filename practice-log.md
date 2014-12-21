@@ -1,3 +1,19 @@
+Status check commands
+=====================
+=====================
+
+>git branch
+  master
+* readme-edits2
+
+>git branch -r
+  origin/HEAD -> origin/master
+  origin/master
+  origin/pr/2
+  origin/pr/3
+  origin/readme-edits2
+  
+>git branch -av
 
 
 Manually merge a pull request with conflicts
