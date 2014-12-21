@@ -172,3 +172,15 @@ Writing objects: 100% (3/3), 356 bytes | 0 bytes/s, done.
 Total 3 (delta 1), reused 0 (delta 0)
 To https://github.com/bogdan-dinu/hello-world.git
    e0b4bae..3d9aa34  master -> master
+
+Branches
+========
+========
+git branch -d readme-edits2 # the branch should not have un-merged changes 
+
+>git remote
+origin
+
+>git remote -v
+origin  https://github.com/bogdan-dinu/hello-world.git (fetch)
+origin  https://github.com/bogdan-dinu/hello-world.git (push) 
